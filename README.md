@@ -11,7 +11,7 @@ Generates two unique 15-character passwords and allows users to copy them to the
 
 - **Custom character set** – Includes uppercase, lowercase, digits, and symbols.
 
-- **Copy-to-clipboard** – Click the button to copy any password instantly 📋.
+- **Copy-to-clipboard** – Click the button to copy any password instantly.
 
 - **Clean design** – Responsive and minimalist layout, easy to read and use.
 
