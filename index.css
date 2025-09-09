@@ -1,0 +1,75 @@
+/* General styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9fafb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* Container box */
+.container {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+  width: 320px;
+}
+
+/* Heading */
+.container h1 {
+  margin-bottom: 1.5rem;
+  color: #333;
+}
+
+/* Password input + button */
+.password-box {
+  margin-bottom: 1rem;
+}
+
+.password-box input {
+  width: 100%;
+  padding: 0.6rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+/* Copy button */
+.password-box button {
+  width: 100%;
+  padding: 0.6rem;
+  background-color: #28a745; /* green */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.2s ease;
+}
+
+.password-box button:hover {
+  background-color: #218838;
+}
+
+/* Generate button */
+.generate-btn {
+  width: 100%;
+  padding: 0.8rem;
+  background-color: #007bff; /* blue */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1rem;
+  transition: background 0.2s ease;
+}
+
+.generate-btn:hover {
+  background-color: #0056b3;
+}
