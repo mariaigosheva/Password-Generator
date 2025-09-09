@@ -3,7 +3,7 @@
 A simple, responsive password generator built with HTML, CSS, and vanilla JavaScript.
 Generates two unique 15-character passwords and allows users to copy them to the clipboard with a single click.
 
-##✨ Features
+✨ Features
 
 Dual password generation – Generates two random passwords simultaneously.
 
