@@ -1,58 +1,39 @@
-Password Generator 🔑✨
+🔑 Password Generator
 
-Short description:
-A simple password generator built with HTML, CSS, and vanilla JavaScript.
-Generates two different 15-character passwords and provides copy-to-clipboard buttons.
+A simple, responsive password generator built with HTML, CSS, and vanilla JavaScript.
+Generates two unique 15-character passwords and allows users to copy them to the clipboard with a single click.
 
+✨ Features
 
-Features 🌟
+Dual password generation – Generates two random passwords simultaneously.
 
-🔐 Generates two unique random passwords at once (15 characters each by default).
+Custom character set – Includes uppercase, lowercase, digits, and symbols.
 
-🔡 Uses a character array including uppercase, lowercase, digits and symbols.
+Copy-to-clipboard – Click the button to copy any password instantly 📋.
 
-📋 Copy buttons to copy a password to the clipboard.
+Clean design – Responsive and minimalist layout, easy to read and use.
 
-🎨 Clean, responsive UI with plain CSS (no frameworks).
+Customizable – Easily change password length or characters in index.js.
 
-password-generator/
-│
-├── index.html   # HTML layout
-├── index.css    # Styling
-├── index.js     # Password generation logic
-└── README.md    # This file
+🛠️ Tech Stack
 
-Get started — step by step 🛠️
-1. Create project folder 📁
-   mkdir password-generator
-cd password-generator
-2. Create files 📄
-   touch index.html index.css index.js README.md
-3. Add the HTML 🧩
+HTML5 – Semantic layout
 
-(see full code in repo)
+CSS3 – Styling and responsiveness
 
-4. Add the CSS 🎨
+JavaScript (Vanilla) – Password logic and clipboard functionality
 
-(see full code in repo)
+🚀 Use Cases
 
-5. Add the JavaScript ⚡
+This project is great for:
 
-(see full code in repo)
+Learning JavaScript and DOM manipulation
 
-6. Test locally 🖥️
+Quick password generation tools
 
-Open index.html in your browser.
+Portfolio or frontend practice projects
 
-Click Generate Passwords ➡️ two passwords appear.
+📂 Project Status
 
-Click Copy 📋 to copy a password.
-
-7. Customization ✏️
-
-🔢 Change password length in index.js:
-   const passwordLength = 20;
-   🛠️ Modify the characters array to add/remove symbols, digits, or letters.
-
-   Status: ✅ Project completed 🎉
+✅ Complete – Fully functional and ready to use
 
