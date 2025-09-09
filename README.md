@@ -21,11 +21,11 @@ Generates two unique 15-character passwords and allows users to copy them to the
 
 ## 🛠️ Tech Stack
 
-**HTML5** – Semantic layout
+- **HTML5** – Semantic layout
 
-**CSS3** – Styling and responsiveness
+- **CSS3** – Styling and responsiveness
 
-**JavaScript (Vanilla)** – Password logic and clipboard functionality
+- **JavaScript (Vanilla)** – Password logic and clipboard functionality
 
 ---
 
