@@ -1,3 +1,9 @@
+Getting Started
+Install the dependencies and run the project
+
+npm install
+npm start
+
 🔑 Password Generator
 
 A simple, responsive password generator built with HTML, CSS, and vanilla JavaScript.
