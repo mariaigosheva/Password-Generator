@@ -1,6 +1,6 @@
 # 🔑 Password Generator
 
-A simple, responsive password generator built with HTML, CSS, and vanilla JavaScript.
+A simple, responsive password generator built with **HTML, CSS, and vanilla JavaScript**.
 Generates two unique 15-character passwords and allows users to copy them to the clipboard with a single click.
 
 ---
@@ -21,11 +21,11 @@ Customizable – Easily change password length or characters in index.js.
 
 ## 🛠️ Tech Stack
 
-HTML5 – Semantic layout
+**HTML5** – Semantic layout
 
-CSS3 – Styling and responsiveness
+**CSS3** – Styling and responsiveness
 
-JavaScript (Vanilla) – Password logic and clipboard functionality
+**JavaScript (Vanilla)** – Password logic and clipboard functionality
 
 ---
 
