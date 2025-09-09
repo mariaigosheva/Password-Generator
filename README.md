@@ -5,7 +5,7 @@ Generates two unique 15-character passwords and allows users to copy them to the
 
 ---
 
-✨ Features
+## ✨ Features
 
 Dual password generation – Generates two random passwords simultaneously.
 
@@ -17,7 +17,9 @@ Clean design – Responsive and minimalist layout, easy to read and use.
 
 Customizable – Easily change password length or characters in index.js.
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 HTML5 – Semantic layout
 
@@ -25,17 +27,9 @@ CSS3 – Styling and responsiveness
 
 JavaScript (Vanilla) – Password logic and clipboard functionality
 
-🚀 Use Cases
+---
 
-This project is great for:
-
-Learning JavaScript and DOM manipulation
-
-Quick password generation tools
-
-Portfolio or frontend practice projects
-
-📂 Project Status
+## 📂 Project Status
 
 ✅ Complete – Fully functional and ready to use
 
